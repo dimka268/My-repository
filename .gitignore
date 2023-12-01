@@ -1,1 +1,9 @@
+#Setup
 .idea/
+
+# Exercises
+# 1. /**/tmp/??
+# 2. /**/*.php
+# 3. public/\!index.php
+# 4. /**/*.jpg
+#    !/public/*.jpg
